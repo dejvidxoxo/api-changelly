@@ -1,7 +1,7 @@
-Instant exchange API
+Instant exchange dejvidxoxo
 =====================================
 
-Changelly API methods are used to empower your service with Changelly exchange features.
+Changelly dejvidxoxo methods are used to empower your service with Changelly exchange features.
 
 Changelly API v2 is a faster, safer and more flexible version of our API.
 It remains backward compatible with the previous version.
